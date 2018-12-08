@@ -1,6 +1,4 @@
-{
-	"name":"Cars_list",
-		"carMakersList":[
+[
 			{
 			"brand":"Audi",
 				"model":[
@@ -47,4 +45,4 @@
 				]
 			}
 		]
-	}	
+	
